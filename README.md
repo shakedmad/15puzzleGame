@@ -10,6 +10,6 @@ dev technologies:
 - React (CRA)
 - Mantine
 
-
-npm i
-nmp start
+Run:
+- npm i
+- npm start
