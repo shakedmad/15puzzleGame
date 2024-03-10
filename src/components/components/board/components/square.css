@@ -1,0 +1,26 @@
+.square {
+    padding: 0px;
+    background-color: indigo;
+    border: 2px solid rgb(142, 92, 178);
+    height: 14vh;
+    width: 7vw;
+    color: rgb(192, 105, 192);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.square:hover {
+    background-color: rgb(142, 92, 178);
+    color: antiquewhite;
+}
+.square:disabled {
+    background-color: rgb(84, 69, 95);
+    color: rgb(166, 135, 166);
+}
+img {
+    padding: 1px;
+    width: inherit;
+    height: inherit;
+}
+.drakedImage{
+    filter: brightness(50%)
+}

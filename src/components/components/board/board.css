@@ -1,0 +1,38 @@
+.bigBoard {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.gameBoard{
+    border: 1px solid rgb(169, 188, 169);
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(116, 129, 116);;
+}
+.board {    
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.boardrow{
+    border: none;
+}
+#lastSquare{
+    color:rgb(198, 218, 198);
+    background-color: rgb(198, 218, 198);
+    border: none;
+    height: auto;
+}
+#startGameButton{
+    font-weight: bold;
+}   
+.youWinToast{
+    color: rgb(74, 3, 74);
+    font-size: 20px;
+    width: 34vw;
+    padding: 30px 20px;
+}
+.cantSwitchToast{
+    color: rgb(195, 195, 251);
+    font-weight: bolder;
+}
