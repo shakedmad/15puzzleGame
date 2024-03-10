@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './leaderBoard.css';
 
 export default function LeaderBoard(props) {   
-    const [allPlayers, setAllPlayers] = useState([]); // setting when a new player is added to de data
+    const [allPlayers, setAllPlayers] = useState([]);
 
     function sort(data) {
         if (data){
