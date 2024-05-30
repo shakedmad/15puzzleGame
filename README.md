@@ -1,7 +1,7 @@
 
 # **Shaked's 15 Puzzle Game**
 
-A simple 15 puzzle game featuring puzzles from Shaked's goofy gallery for her selp-development. Solve puzzles before your 10 minutes are up!
+A simple 15 puzzle game featuring puzzles from Shaked's goofy gallery for her self-development. Solve puzzles before your 10 minutes are up!
 
 ## **Features**
 - Image gallery with goofy pictures
